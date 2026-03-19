@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/lukasz/RiderProjects/Desktop-FleetManager-darmofal_rodziewicz/FleetManager/FleetManager.csproj": {}
+    "/home/kuba/RiderProjects/Desktop-FleetManager-darmofal_rodziewicz/FleetManager/FleetManager.csproj": {}
   },
   "projects": {
-    "/home/lukasz/RiderProjects/Desktop-FleetManager-darmofal_rodziewicz/FleetManager/FleetManager.csproj": {
+    "/home/kuba/RiderProjects/Desktop-FleetManager-darmofal_rodziewicz/FleetManager/FleetManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lukasz/RiderProjects/Desktop-FleetManager-darmofal_rodziewicz/FleetManager/FleetManager.csproj",
+        "projectUniqueName": "/home/kuba/RiderProjects/Desktop-FleetManager-darmofal_rodziewicz/FleetManager/FleetManager.csproj",
         "projectName": "FleetManager",
-        "projectPath": "/home/lukasz/RiderProjects/Desktop-FleetManager-darmofal_rodziewicz/FleetManager/FleetManager.csproj",
-        "packagesPath": "/home/lukasz/.nuget/packages/",
-        "outputPath": "/home/lukasz/RiderProjects/Desktop-FleetManager-darmofal_rodziewicz/FleetManager/obj/",
+        "projectPath": "/home/kuba/RiderProjects/Desktop-FleetManager-darmofal_rodziewicz/FleetManager/FleetManager.csproj",
+        "packagesPath": "/home/kuba/.nuget/packages/",
+        "outputPath": "/home/kuba/RiderProjects/Desktop-FleetManager-darmofal_rodziewicz/FleetManager/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/lukasz/.nuget/NuGet/NuGet.Config"
+          "/home/kuba/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -89,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/lukasz/.dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/home/kuba/.dotnet/sdk/10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
